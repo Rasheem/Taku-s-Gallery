@@ -1,4 +1,4 @@
-# Taku-s-Gallery
+# TakusPortfolio
 Simple Japanese Artist's Static Site
 I wanted to make a Static for a friend of mine, but without telling him.
 Using BS and other little things I put together a few of his pieces to create a portfolio.
